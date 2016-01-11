@@ -11,13 +11,6 @@ public class TicketOrderingView {
 		// TODO Auto-generated method stub
 
 		JFrame frame = new TicketOrderingFrame();
-		
-		frame.setSize(400, 400);
-		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.setVisible(true);
-	
-	
-	
 	}
 
 }
