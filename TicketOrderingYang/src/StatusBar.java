@@ -29,3 +29,4 @@ public class StatusBar extends JComponent{
 		repaint();
 	}
 }
+
